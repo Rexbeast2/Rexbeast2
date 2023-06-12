@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rex Beast</h1>
-<h3 align="center">I'm a student who is passionate in cybersecurity about securing web applications and building secure software. My experience includes performing penetration testing and vulnerability assessments on web applications and servers. I enjoy developing tools and automating tasks using Python, and I have experience using it for web development using frameworks like Flask and Django. Additionally, I have experience with DevOps tools and practices, including Git, Jenkins, and Docker. I'm passionate about making software development more secure and efficient, and I'm always looking for ways to improve my skills and knowledge. In my free time, I contribute to open-source projects related to cybersecurity, web development, and DevOps. I'm excited to be part of a community of like-minded individuals who are committed to building secure and reliable software.</h3>
+<h3 align="center">I'm a student who is passionate in cybersecurity about securing web applications and building secure software. I'm excited to be part of a community of like-minded individuals who are committed to building secure and reliable software.</h3>
 
 - 🌱 I’m currently learning **Machine learning and Django**
 

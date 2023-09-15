@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rex Beast</h1>
 <h3 align="center">I'm a student who is passionate in cybersecurity about securing web applications and building secure software. I'm excited to be part of a community of like-minded individuals who are committed to building secure and reliable software.</h3>
 
-- 🌱 I’m currently learning **Machine learning and Django**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Pentesting, DevOps and Web Application**
 
